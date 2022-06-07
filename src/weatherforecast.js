@@ -3,9 +3,10 @@ const WeatherForecast = (props) => {
     return (
         <div className="weather">
             <img src={props.img} alt="" />
-            <p>conditions: {props.conditions}</p>
-            <p>time: {props.time}</p>
+            <p className="conditions">conditions: {props.conditions}</p>
+            <p className="time">time: {props.time}</p>
         </div>
     )
 };
+
 export default WeatherForecast;
