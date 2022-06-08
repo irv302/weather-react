@@ -1,6 +1,7 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  color: yellow;
 }
 
 body {
@@ -26,7 +27,7 @@ section {
 }
 
 section .weather {
- border: 10px solid rgb(78, 105, 210);
+ border: 10px solid rgb(236, 213, 122);
  flex: 1;
  padding:10px;
  text-align:center;
@@ -42,4 +43,7 @@ color:azure
 .time{
   color:rgb(226, 235, 235);
 font-weight: bolder;
+}
+.img{
+height: 120px;
 }

@@ -12,8 +12,8 @@ let weatherData = [
     },
 
     {
-        img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/day.svg",
-        conditions: "clear",
+        img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/cloudy-day_t7ckxp.svg",
+        conditions: "partly cloudy",
         time: "day",
     },
 
